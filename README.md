@@ -20,10 +20,10 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 I'm Currently working as a Software Engineer at IBM.<br>
 I am into software development, distributed systems, cloud computing and scientific machine learning<br><br>
-🔭 I’m currently working on golang and web kubernetes<br>
+🔭 I’m currently working on golang and kubernetes<br>
 🌱 I’m currently learning about designing systems<br>
 💬 Ask me about Machine Learning and Python<br>
-👯 Always looking to collaborate on machine learning research problems<br>
+👯 Always looking to collaborate on fundamental algorithmic, mathematical and machine learning focused research problems<br>
 📫 Reach me via ameyvarhade@gmail.com
 
 
